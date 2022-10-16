@@ -1,14 +1,13 @@
 ---
-title: "My website"
+title: "Bio"
 output: 
   html_document:
     toc: FALSE
     css: /css/default.css
-    self_contained: no
-  html_document:
+    self_contained: no  
 ---
 
-<link rel="stylesheet" type="text/css" media="all" href="/css/default.css" />
+<!-- <link rel="stylesheet" type="text/css" media="all" href="/css/default.css" /> -->
 
 **Welcome to my website!**
 
