@@ -22,6 +22,10 @@ h3 {
     color: SlateBlue;
 }
 
+li, ol, ul {
+    color: LightGray;
+}
+
 p.a {
   font-style: normal;  
 }
