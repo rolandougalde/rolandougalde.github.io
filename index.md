@@ -6,10 +6,9 @@ output:
     css: /css/default.css
     self_contained: no
   html_document:
-    
 ---
 
-
+<link rel="stylesheet" type="text/css" media="all" href="css" />
 
 **Welcome to my website!**
 
