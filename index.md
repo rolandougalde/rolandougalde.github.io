@@ -1,5 +1,3 @@
-<link href="/css/default.css" rel="stylesheet">
-
 ---
 title: "My website"
 output: 
@@ -7,8 +5,7 @@ output:
     toc: FALSE
 ---
 
-
-
+<link href="/css/default.css" rel="stylesheet">
 
 **Welcome to my website!**
 
