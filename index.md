@@ -1,4 +1,4 @@
- css: /css/default.css
+<link href="default.css" rel="stylesheet"></link>
 
 ---
 title: "My website"
