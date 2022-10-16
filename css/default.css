@@ -20,13 +20,41 @@ h2 {
 
 h3 {
     color: SlateBlue;
-} 
+}
+
+p.a {
+  font-style: normal;  
+}
+
+p.b {
+  font-style: italic;
+  color: MediumSeaGreen;
+}
+
+p.c {
+  font-style: oblique;
+  color: DodgerBlue;
+}
 
 /* links colors */
 
 /* unvisited link */
 a:link {
   color: MediumSeaGreen;
+}
+
+p.normal {
+  font-weight: normal;
+}
+
+p.thick {
+  font-weight: bold;
+   color: Orange;
+}
+
+p.thicker {
+  font-weight: 900;
+  color: Orange;
 }
 
 /* visited link */
