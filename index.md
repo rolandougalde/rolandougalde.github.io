@@ -3,6 +3,10 @@ title: "My website"
 output: 
   html_document:
     toc: FALSE
+     css: /css/font-awesome.css
+     self_contained: no
+  html_document:
+    
 ---
 
 <link href="/css/default.css" rel="stylesheet">
