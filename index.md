@@ -3,7 +3,7 @@ title: "My website"
 output: 
   html_document:
     toc: FALSE
-     css: /css/font-awesome.css
+     css: /css/default.css
      self_contained: no
   html_document:
     
