@@ -9,7 +9,7 @@ output:
     
 ---
 
-<link href="/css/default.css" rel="stylesheet">
+
 
 **Welcome to my website!**
 
