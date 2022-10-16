@@ -8,7 +8,7 @@ output:
   html_document:
 ---
 
-<link rel="stylesheet" type="text/css" media="all" href="css" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/default.css" />
 
 **Welcome to my website!**
 
