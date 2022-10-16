@@ -1,16 +1,19 @@
 body {
-    background-color: #303030;
+    background-color: #303030;    
+}
+
+p {
     color: LightGray;
-  }
+}
 
 h1 {
     color: Tomato;
-  } 
+} 
 
 h2 {
     color: Orange;
-  } 
+} 
 
 h3 {
     color: SlateBlue;
-  } 
+} 
