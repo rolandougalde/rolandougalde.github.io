@@ -7,7 +7,7 @@ output:
     self_contained: no  
 ---
 
-<!-- <link rel="stylesheet" type="text/css" media="all" href="/css/default.css" /> -->
+<link rel="stylesheet" type="text/css" media="all" href="/css/default.css" />
 
 **Welcome to my website!**
 
