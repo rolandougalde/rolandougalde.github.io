@@ -12,9 +12,47 @@ output:
 **Welcome to my website!**
 
 
-# Getting started
+# Current Projetcs
 
-Click the links in the menu above to look around.
+### Harvard's CS50x
+**Topics**
+
+- Scratch
+- C
+- Arrays
+- Algorithms
+- Memory
+- Data Structures
+- 6 Python
+  - SQL
+  - HTML, CSS, JavaScript
+  - Flask
+  - Emoji
+
+### Harvard's CS50w
+**Topics**
+
+- Introduction
+- HTML, CSS
+- Git
+- Python
+- Django
+- SQL, Models, and Migrations-JavaScript
+  - User Interfaces
+  - Testing, CI/CD
+  - Scalability and Security
+
+### Building websites with JAM Stack
+**Topics**
+
+- GitHub
+- NetFly
+
+# Other Projetcs
+
+- 
+
+### DevOps Certification
 
 # Lorem ipsum
 
