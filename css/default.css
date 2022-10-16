@@ -1,3 +1,7 @@
+/* my portfolio's default css */
+
+/* look and feel */
+
 body {
     background-color: #303030;    
 }
@@ -16,4 +20,26 @@ h2 {
 
 h3 {
     color: SlateBlue;
+} 
+
+/* links colors */
+
+/* unvisited link */
+a:link {
+  color: SlateBlue;
+}
+
+/* visited link */
+a:visited {
+  color: MediumSeaGreen;
+}
+
+/* mouse over link */
+a:hover {
+  color: Violet;
+}
+
+/* selected link */
+a:active {
+  color: DodgerBlue;
 } 
