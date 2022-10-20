@@ -3,11 +3,11 @@ title: "Bio"
 output: 
   html_document:
     toc: FALSE
-    css: /css/default.css
+    css: /assets/css/default.css
     self_contained: no  
 ---
 
-<link rel="stylesheet" type="text/css" media="all" href="/css/default.css" />
+<!-- <link rel="stylesheet" type="text/css" media="all" href="/assets/css/default.css" /> -->
 
 **Welcome to my website!**
 
