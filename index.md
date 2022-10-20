@@ -69,9 +69,3 @@ I also have a discussion of R Markdown and reproducibility [on one of my course 
 ![Linkedin](/images/Linkedin-icon.png)
 ![Facebook](/images/Facebook-icon.png)
 
-
-<footer>
-  <div class="container">
-        footer
-   </div>
-</footer>
