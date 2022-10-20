@@ -7,7 +7,7 @@ output:
     self_contained: no  
 ---
 
-<!-- <link rel="stylesheet" type="text/css" media="all" href="/assets/css/default.css" /> -->
+<link rel="stylesheet" type="text/css" media="all" href="/assets/css/default.css" />
 
 **Welcome to my website!**
 
@@ -70,3 +70,8 @@ I also have a discussion of R Markdown and reproducibility [on one of my course 
 ![Facebook](/images/Facebook-icon.png)
 
 
+<footer>
+  <div class="container">
+        footer
+   </div>
+</footer>
