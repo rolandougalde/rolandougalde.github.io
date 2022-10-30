@@ -4,8 +4,7 @@ output:
   html_document:
     toc: FALSE
     css: /assets/css/default.css
-    self_contained: no
-    foorter: /includes/footer.html
+    self_contained: no    
 ---
 
 <link rel="stylesheet" type="text/css" media="all" href="/assets/css/default.css" />
