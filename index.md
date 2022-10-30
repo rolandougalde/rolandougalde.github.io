@@ -65,7 +65,7 @@ If you are new to R Markdown, you can learn more about it [on the R Markdown web
 
 I also have a discussion of R Markdown and reproducibility [on one of my course pages](https://andreashandel.github.io/MADAcourse/1e_ToolsforReproducibility.html). You'll find additional links to potentially useful R Markdown (and Github) resources there.
 
-![Github](/images/Github-icon.png)
+![Github](/images/Github-icon.png)([anchor link]https://github.com/rolandougalde)
 ![Linkedin](/images/Linkedin-icon.png)
 ![Facebook](/images/Facebook-icon.png)
 
