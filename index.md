@@ -14,6 +14,21 @@ output:
 
 # Current Projetcs
 
+### Cenfotec's Web UI desing
+
+- HTML fundations.
+- CSS. selectors & CSS box model.
+- Javascript DOM.
+- Forms.
+- Text transform.
+- Media Queries.
+- Semantic HTML.
+- Animation with CSS3.
+- Audio y video. SASS/LESS.
+- GitHub pages.
+
+### NoSQL Databases
+
 ### Harvard's CS50x
 **Topics**
 
@@ -51,6 +66,7 @@ output:
 - Site generators
 - GitHub
 - NetFly
+- NoSQL Databases
 
 ### DevOps Certification
 **Topics**
