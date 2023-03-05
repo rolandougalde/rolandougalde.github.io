@@ -14,6 +14,12 @@ output:
 
 # Current Projetcs
 
+### Wordpress CMS Farm + SSL Encryption
+- Choosing a Linux Server Distro
+- Deciding for a Web Server
+- Installing and configuring LAMP
+- Planning a Wordpress Installation
+
 ### Cenfotec's Web UI desing
 
 - HTML fundations.
