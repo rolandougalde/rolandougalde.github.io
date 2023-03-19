@@ -40,17 +40,17 @@ p.c {
 
 /* unvisited link */
 a:link {
-  color: LightGray;
+  color: #abe338;
 }
 
 /* visited link */
 a:visited {
-  color: LightGray;
+  color: #abe338;
 }
 
 /* mouse over link */
 a:hover {
-  color: #abe338;
+  color: #FFD700;
   text-decoration:none;  
 }
 
