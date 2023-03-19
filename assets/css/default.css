@@ -40,22 +40,23 @@ p.c {
 
 /* unvisited link */
 a:link {
-  color: MediumSeaGreen;
+  color: LightGray;
 }
 
 /* visited link */
 a:visited {
-  color: MediumSeaGreen;
+  color: LightGray;
 }
 
 /* mouse over link */
 a:hover {
-  color: Gray;
+  color: LightGray;
+  font-style: normal;  
 }
 
 /* selected link */
 a:active {
-  color: Gray;
+  color: LightGray;
 } 
 
 ---
