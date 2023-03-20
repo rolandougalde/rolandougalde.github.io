@@ -60,7 +60,7 @@ a:active {
 }
 
 /*  mouse over home link */
-.menu a.main-nav-item:hover {
+.home a.main-nav-item:hover {
     color: LightGray;
     text-decoration:none;
 }
