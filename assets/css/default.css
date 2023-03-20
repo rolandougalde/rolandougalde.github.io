@@ -57,7 +57,13 @@ a:hover {
 /* selected link */
 a:active {
   color: LightGray;
-} 
+}
+
+/*  mouse over home link */
+.menu a.main-nav-item:hover {
+    color: LightGray;
+    text-decoration:none;
+}
 
 ---
 ---
