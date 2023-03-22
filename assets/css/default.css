@@ -40,12 +40,12 @@ p.c {
 
 /* unvisited link */
 a:link {
-  color: #abe338;
+  color: #ffffff;
 }
 
 /* visited link */
 a:visited {
-  color: #abe338;
+  color: #ffffff;
 }
 
 /* mouse over link */
@@ -56,13 +56,7 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: LightGray;
-}
-
-/*  mouse over home link */
-.home a.main-nav-item:hover {
-    color: LightGray;
-    text-decoration:none;
+  color: #ffffff;
 }
 
 ---
