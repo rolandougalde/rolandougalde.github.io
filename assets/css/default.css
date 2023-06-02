@@ -16,6 +16,10 @@ body {
     background-color: #0d1117;    
 }
 
+div.section {
+    color: #ADB5BD
+}
+
 h1 {
     color: #EF9AA4;
 } 
@@ -25,7 +29,7 @@ h2 {
 } 
 
 h3 {
-    color: #ADB5BD;
+    color: #66D1D9;
 }
 
 p, li, ol, ul {
