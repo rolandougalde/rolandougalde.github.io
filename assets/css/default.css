@@ -17,6 +17,7 @@ body {
 }
 
 div.section {
+    @font-face { font-family: "Font Awesome 6 Brands"; src: url('../fonts/Font-Awesome-6-Brands-Regular.otf'); }
     color: #ADB5BD;
 }
 
