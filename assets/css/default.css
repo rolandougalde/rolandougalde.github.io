@@ -16,9 +16,14 @@ body {
     background-color: #0d1117;    
 }
 
-div.section {
-    @font-face { font-family: "Font Awesome 6 Brands"; src: url('../fonts/Font-Awesome-6-Brands-Regular.otf')  format('opentype'); }
+div.section {    
+    font-family: "Font Awesome 6 Brands";
     color: #ADB5BD;
+}
+
+@font-face {
+    font-family: "Font Awesome 6 Brands"; 
+    src: url('../fonts/Font-Awesome-6-Brands-Regular.otf')  format('opentype');
 }
 
 h1 {
