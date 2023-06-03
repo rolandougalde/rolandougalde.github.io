@@ -21,8 +21,13 @@ body {
     src: url('../fonts/mom-s-typewriter.ttf')  format('opentype');
 }
 
+@font-face {
+    font-family: "Monocode Regular - v01.02b"; 
+    src: url('../fonts/monocode-regular-v01.02b.ttf')  format('opentype');
+}
+
 div.section {    
-    font-family: "Mom's Typewriter";
+    font-family: "Monocode Regular - v01.02b";
     color: #ADB5BD;
 }
 
