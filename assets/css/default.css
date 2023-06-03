@@ -16,25 +16,28 @@ body {
     background-color: #0d1117;    
 }
 
-div.section {    
-    font-family: "Mom's Typewriter";
-    color: #ADB5BD;
-}
-
 @font-face {
     font-family: "Mom's Typewriter"; 
     src: url('../fonts/mom-s-typewriter.ttf')  format('opentype');
 }
 
+div.section {    
+    font-family: "Mom's Typewriter";
+    color: #ADB5BD;
+}
+
 h1 {
+    font-family: "Mom's Typewriter";
     color: #EF9AA4;
 } 
 
 h2 {
+    font-family: "Mom's Typewriter";
     color: #79c0e1;
 } 
 
 h3 {
+    font-family: "Mom's Typewriter";
     color: #C9D1D9;
 }
 
