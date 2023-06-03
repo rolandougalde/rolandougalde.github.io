@@ -17,7 +17,7 @@ body {
 }
 
 div.section {
-    @font-face { font-family: "Font Awesome 6 Brands"; src: url('../fonts/Font-Awesome-6-Brands-Regular.otf'); }
+    @font-face { font-family: "Font Awesome 6 Brands"; src: url('../fonts/Font-Awesome-6-Brands-Regular.otf')  format('opentype'); }
     color: #ADB5BD;
 }
 
