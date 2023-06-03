@@ -17,13 +17,13 @@ body {
 }
 
 div.section {    
-    font-family: "Font Awesome 6 Brands";
+    font-family: "Mom's Typewriter";
     color: #ADB5BD;
 }
 
 @font-face {
-    font-family: "Font Awesome 6 Brands"; 
-    src: url('../fonts/Rosaline-Signature.otf')  format('opentype');
+    font-family: "Mom's Typewriter"; 
+    src: url('../fonts/mom-s-typewriter.ttf')  format('opentype');
 }
 
 h1 {
