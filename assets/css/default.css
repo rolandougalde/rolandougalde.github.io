@@ -17,13 +17,15 @@ body {
 }
 
 @font-face {
-    font-family: "Neoland Script"; 
-    src: url('../fonts/neoland-script.ttf')  format('opentype');
+    font-family: "Nightmare Codehack"; 
     font-style: normal;
+    src: url('../fonts/nightmare-codehack.otf')  format('opentype');
+    
 }
 
 @font-face {
-    font-family: "Monocode Regular - v01.02b"; 
+    font-family: "Monocode Regular - v01.02b";
+    font-style: normal;
     src: url('../fonts/monocode-regular-v01.02b.ttf')  format('opentype');
 }
 
@@ -33,7 +35,7 @@ div.section {
 }
 
 h1 {
-    font-family: "Neoland Script";
+    font-family: "Nightmare Codehack";
     color: #EF9AA4;
 } 
 
