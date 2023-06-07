@@ -17,8 +17,8 @@ body {
 }
 
 @font-face {
-    font-family: "Mom's Typewriter"; 
-    src: url('../fonts/code-predators-regular.ttf')  format('opentype');
+    font-family: "Neoland Script"; 
+    src: url('../fonts/neoland-script.ttf')  format('opentype');
 }
 
 @font-face {
