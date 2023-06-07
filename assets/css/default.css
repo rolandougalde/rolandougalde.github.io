@@ -18,32 +18,26 @@ body {
 
 @font-face {
     font-family: "Nightmare Codehack"; 
-    font-style: normal;
-    font-stretch: expanded;
-    font-weight: normal;
-    font-size: 150%;
-    src: url('../fonts/nightmare-codehack.otf')  format('opentype');
-    
+    src: url('../fonts/nightmare-codehack.otf')  format('opentype');    
 }
 
 @font-face {
-    font-family: "Monocode Regular - v01.02b";
-    font-style: normal;
+    font-family: "Monocode Regular";
     src: url('../fonts/monocode-regular-v01.02b.ttf')  format('opentype');
 }
 
 div.section {    
-    font-family: "Monocode Regular - v01.02b";
+    font-family: "Monocode Regular";
     color: #ADB5BD;
 }
 
 h1 {
-    font-family: "Nightmare Codehack";
-    color: #EF9AA4;
+    font-family: "Monocode Regular";
+    color: #D2A8FF;
 } 
 
 h2 {
-    font-family: "Mom's Typewriter";
+    font-family: "Monocode Regular";
     color: #79c0e1;
 } 
 
