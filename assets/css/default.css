@@ -19,6 +19,7 @@ body {
 @font-face {
     font-family: "Nightmare Codehack"; 
     font-style: normal;
+    font-stretch: normal;
     src: url('../fonts/nightmare-codehack.otf')  format('opentype');
     
 }
