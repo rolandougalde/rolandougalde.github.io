@@ -109,14 +109,14 @@ footer {
 
 /* Style for the left header */
 .header-left {
-  width: 90%;
+  width: 75%;
   background-color: #f0f0f0;
   padding: 10px;
 }
 
 /* Style for the right header */
 .header-right {
-  width: 10%;
+  width: 25%;
   background-color: #e0e0e0;
   padding: 10px;
 }
