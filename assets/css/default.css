@@ -26,6 +26,11 @@ body {
     src: url('../fonts/monocode-regular-v01.02b.ttf')  format('opentype');
 }
 
+@font-face {
+    font-family: "CallingCode Regular";
+    src: url('../fonts/CallingCode-Regular.ttf')  format('opentype');
+}
+
 div.section {    
     font-family: "Monocode Regular";
     color: #ADB5BD;
