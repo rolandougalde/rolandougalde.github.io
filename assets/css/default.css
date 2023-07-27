@@ -99,3 +99,32 @@ footer {
 .btn {
   display: none !important;
 }
+
+/* Styling for the header container */
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Style for the left header */
+.header-left {
+  width: 75%;
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+/* Style for the right header */
+.header-right {
+  width: 25%;
+  background-color: #e0e0e0;
+  padding: 10px;
+}
+
+/* Styling for the formatted box */
+.formatted-box {
+  border: 2px solid #ccc;
+  background-color: #f9f9f9;
+  padding: 20px;
+  margin-top: 20px;
+}
