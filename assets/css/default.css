@@ -31,9 +31,7 @@ div.section {
     color: #ADB5BD;
 }
 
-div.picture {    
-    font-family: "Monocode Regular";
-    color: #ADB5BD;
+img.center {        
     display: block;
     margin-left: auto;
     margin-right: auto;
