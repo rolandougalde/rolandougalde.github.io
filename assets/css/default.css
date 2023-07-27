@@ -31,6 +31,14 @@ div.section {
     color: #ADB5BD;
 }
 
+div.picture {    
+    font-family: "Monocode Regular";
+    color: #ADB5BD;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 h1 {
     font-family: "Monocode Regular";
     color: #D2A8FF;
