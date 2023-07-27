@@ -129,8 +129,8 @@ footer {
 
 /* Styling for the formatted box */
 .formatted-box {
-  border: 2px solid #ccc;
-  background-color: #f9f9f9;
+  border: 2px solid #495057;
+  background-color: #212529;
   padding: 20px;
   margin-top: 20px;
 }
