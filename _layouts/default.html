@@ -54,10 +54,10 @@
   </div>
 
   <h3>SSL Certificate deliveri pipeline</h3>
-  <code>
+  <pre>
     # cat certificate.crt ca-bundle.crt > ${year}.wildcard.${domain}.${name}
     # openssl pkcs12 -export -in certificate.cer -inkey privateKey.key -out ${year}.wildcard.${domain}.${name}.pfx -certfile ca-bundle.crt
-  </code>
+  </pre>
   
  <!-- 
   <footer>
