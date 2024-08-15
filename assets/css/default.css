@@ -16,6 +16,38 @@ body {
     background-color: #0d1117;    
 }
 
+/* Code blocks */
+pre {
+  background-color: #0d1117;
+  padding: 1em;
+  border-radius: 5px;
+  overflow: auto;
+  margin-bottom: 1em;
+  line-height: 1.45;
+  font-family: Lucida Console, monospace;
+  font-size: 85%;
+  color: #dee2e6;
+}
+
+code {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #0d1117;
+  padding: 0.2em 0.4em;
+  border-radius: 5px;
+  font-size: 85%;
+  color: #7ee787;
+}
+
+pre code {
+  font-family: monospace;
+  border: none;
+  background: none;
+  font-size: 100%;
+  line-height: 1em;
+  letter-spacing: normal;
+  word-break: break-all;
+}
+
 @font-face {
     font-family: "Nightmare Codehack"; 
     src: url('../fonts/nightmare-codehack.otf')  format('opentype');    
