@@ -12,8 +12,13 @@ lighter-gray: #c9d1d9
 lighter-blue: #a5d6ff
 */
 
+/* Base font and background */
 body {
-    background-color: #0d1117;    
+  font-family: Verdana, sans-serif;
+  background-color: #212529;
+  color: #dee2e6;
+  line-height: 1.6;
+  margin: 20px;
 }
 
 /* Code blocks */
@@ -29,6 +34,7 @@ pre {
   color: #dee2e6;
 }
 
+/* code line */
 code {
   font-family: 'Courier New', Courier, monospace;
   background-color: #0d1117;
@@ -38,6 +44,7 @@ code {
   color: #7ee787;
 }
 
+/* Code block */
 pre code {
   font-family: monospace;
   border: none;
